@@ -1,0 +1,48 @@
+# ZERODUMB-Ethics-Lite License v1.0
+
+> _A morally responsible, semi-legally-binding document for curious hackers who don’t want to accidentally commit felonies._
+
+## 👁️‍🗨️ TL;DR
+You can use this code, toolkit, blog post, or script **only** for ethical, educational, and authorized purposes.
+
+If you run this against systems you don’t own or don’t have permission to test, that’s **your** crime, not ours.
+
+If you break something, compromise something, or trigger a DEFCON alert—**that’s on you.** Not me. Not this repo. Not even my sarcastic AI.
+
+---
+
+## 🧠 What You *Can* Do
+- Use, fork, and modify for personal education
+- Train in VMs, labs, or pentest arenas you control
+- Share with others trying to learn ethical recon, scripting, and security
+- Use portions of code in projects that don’t violate this license
+
+---
+
+## 🚫 What You *Cannot* Do
+- Run this toolkit against public-facing systems you don’t own or control
+- Use it to gather data from websites without permission
+- Employ this code in malware, backdoors, phishing kits, or other nonsense
+- Claim this work as your own without attribution
+- Use the word “hacker” on your LinkedIn profile without first learning the difference between `nmap` and `netcat`
+
+---
+
+## ⚖️ Legal Stuff
+This license is intentionally non-standard.
+If you need something compliant with OSI-approved licenses, go use [MIT](https://opensource.org/licenses/MIT) or [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+This license makes no warranties or guarantees and doesn’t pretend to be legally enforceable in all jurisdictions. It’s here to establish intent, protect reputation, and keep this space safe for learning—not lawsuits.
+
+---
+
+## 👻 Final Note from Zero
+If you’re unsure if something’s okay to do with this code—
+**it’s probably not.**
+
+You’re trusted to be clever, but not reckless. This isn’t a weapon. It’s a mirror for understanding your own system… and the system we’re all part of.
+
+Build with care. Share with caution. Stay curious, stay clean.
+
+— `Zero`, Founder of ZERODUMB
+
