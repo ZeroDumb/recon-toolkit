@@ -1,0 +1,27 @@
+# ZeroDumb Recon Toolkit - requirements.txt
+# 
+# 📜 These libraries are intended for use in ethical, authorized testing environments only.
+# 🚫 Do not use against targets you don't have permission to test.
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+argparse>=1.4.0
+colorama>=0.4.6
+
+# Security and scanning tools
+nuclei-python>=0.1.0
+dnspython>=2.4.2
+beautifulsoup4>=4.12.2
+urllib3>=2.0.7
+
+# CLI and formatting
+rich>=13.7.0
+typer>=0.9.0
+click>=8.1.7
+
+# Testing and development
+pytest>=7.4.3
+black>=23.11.0
+flake8>=6.1.0
+mypy>=1.7.1 
